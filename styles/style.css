@@ -49,8 +49,8 @@ main a:hover {
   background-color: rgba(255, 127, 80, 0.9);
 }
 
-@media (min-width: 768px) {
-  .w-md-25 {
+@media (min-width: 992px) {
+  .w-lg-25 {
     width: 25% !important;
   }
 }
